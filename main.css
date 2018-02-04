@@ -1,0 +1,109 @@
+html,
+body {
+height: 100%;
+}
+
+body {
+/*background-image: url(night-sky-wallpapers.jpg);*/
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#header {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+#header .logo
+
+/* Navbar links */
+.navigation {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigation a {
+    float: center;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Links - change color on hover */
+.navigation a:hover {
+    color: gray;
+}
+
+h1 {
+    color: black;
+    margin-bottom: 1px;
+    font-size: 36em;
+    font-family: "Prata";
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    margin-bottom: 2.5em;
+    font-size: 2.5em;
+    font-family: "Lato";
+    font-weight: thin;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    margin-bottom: 2.5em;
+    font-size: 2.5em;
+    font-family: "Lato";
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: white;
+    margin-top: 3em;
+    font-family: "League Spartan";
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+a:link {
+    color: black;
+    font-size: 40px;
+    font-family: "Lato";
+    font-weight: thin;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    text-decoration: none;
+
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+    text-decoration: none;
+
+}
+
+/* selected link */
+a:active {
+    color: gray;
+    text-decoration: none;
+
+}
