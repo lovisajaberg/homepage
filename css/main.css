@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: white;
+  background-color: #7C5CFF;
 }
 
 h1 {
@@ -36,7 +36,7 @@ p {
 }
 
 .header {
-    background-color: #FF3D00;
+    background-color: #7C5CFF;
     text-align: center;
     padding: 80px;
 }
@@ -58,14 +58,15 @@ p {
 }
 
 .topnav {
-    background-color: white;
+    background-color: #7C5CFF;
     padding: 20px;
+    margin-top: 30px;
     margin-left: 10%;
 }
 
 
 .main {
-    background-color: white;
+    background-color: #7C5CFF;
     text-align: left;
     text-indent: 25%;
     padding: 20px;
@@ -81,7 +82,7 @@ p {
 
 .cool-link {
     display: inline-block;
-    color: black;
+    color: #502FD4;
     text-decoration: none;
     font-family: "Futura";
 }
@@ -91,7 +92,7 @@ p {
     display: block;
     width: 0;
     height: 2px;
-    background: black;
+    background: #502FD4;
     transition: width .3s;
 }
 
